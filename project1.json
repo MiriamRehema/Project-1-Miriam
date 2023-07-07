@@ -1,0 +1,48 @@
+{
+ "Registered" :[
+    {
+        "registration number": "KMFM 571K",
+        "model":"Suxuki",
+        "color":"Raider 150",
+        "year":"2012"
+    },
+    {
+        "registration number": "KWED 222R",
+        "model":"Vespa",
+        "color":"Purple",
+        "year":"2014"
+    },
+    {
+
+        "registration number": "KDIJ 657L",
+        "model":"Honda",
+        "color":"Candy",
+        "year":"2016"
+    },
+    {
+        "registration number": "KMNO 234A",
+        "model":"Yamaha",
+        "color":"Red",
+        "year":"2018"
+    },
+    {
+        "registration number": "KASD 789E",
+        "model":"BMW",
+        "color":"Chameleon pigment",
+        "year":"2020"
+    },
+    {
+        "registration number": "KQXC 564P",
+        "model":"Moto Guzzi",
+        "color":"Green",
+        "year":"2013"
+    },
+    {
+        "registration number": "KSZL 290H",
+        "model":"Triumph Bonneville",
+        "color":"Blue",
+        "year":"2015"
+    }
+  ]
+}  
+
