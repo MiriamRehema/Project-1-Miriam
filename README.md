@@ -24,7 +24,7 @@ It includes a database for the people who have registered their motorbikes.
 
 This can help the government or other organizations to follow the usage of motorbikes  in case any issue arises.
 
-Access to the Internet
+## Access to the Internet
 
 # Installation Process
 
