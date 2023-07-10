@@ -1,7 +1,8 @@
 # Project-1-Miriam
 Survey of MOTORBIKE REGISTRATION IN KENYA
-This website allows to easy  registration of motorbikes owned by people in Kenya.
-It includes a data base for the people who have registered their motobikes.
+This website allows  easy  registration of motorbikes owned by people in Kenya.
+It includes a database for the people who have registered their motorbikes.
+This can help the government or other organizations to follow the usage of motorbikes  in case any issue arises.
 
 ## Table of Content
 
