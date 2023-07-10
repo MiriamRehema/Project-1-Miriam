@@ -8,7 +8,8 @@
    
 </head>
 <body>
-<li div class="Add Motorbike"><form action="index.html">
+<ul>Details</ul>    
+   <li div class="navbar_links"><form action="http://localhost:3000/Registered">
         <label for="RegistrationNumber">RegistrationNumber:</label><br>
         <input type="text" id="RegistrationNumber" number="RegistrationNumber" value=""><br>
         <label for="model">model:</label><br>
@@ -18,24 +19,42 @@
         <label for="Year">Year:</label><br>
         <input type="text" id="Year" number="Year" value=""><br>
         <input type="submit" value="Submit"> 
-           
+           <script>
+            const formEl=document.querySelector('form');
+            formEl.addEventListener('submit',event=>{
+                event.preventDefault();
+                const formData=new FormData(formEl);
+
+                 const data=Object.formEntries(formData)
+                 console.log(data);
+
+                 fetch(' http://localhost:3000/Registered',{
+                    method :'POST',
+                    headers:{
+                        'Content-Type':'application/JSON'
+                    },
+                    body:JSON.stringify(data)
+                 }).then(res=>res.json())
+                    .then(data=>console.log(data))
+                    .catch(error=>console.log(error));
+            })
+           </script>
         </input>
         </class>
         </form>
-
     </li>
 </div>
    
-<li div class="navbar_links"><form>
-    <div class="navbar_links">
-   <div class="Registered"    
-     <ul>registered</ul>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>z
+</ul>
+
+<ul class="navbar_menu">
+    <ul class="navbar_link">
+        
+
+        
+    </a>
+        </ul>
+    
+
 </body>
 </html>
