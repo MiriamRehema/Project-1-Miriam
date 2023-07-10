@@ -23,7 +23,7 @@ Technology Used
 
 Conclusion
 
-An access to the Internet
+Access to the Internet
 
 # Installation Process
 
