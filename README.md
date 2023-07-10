@@ -29,7 +29,7 @@ Access to the Internet
 
 Frontend
 
-* Git clone the repository 'git clone git@github.com:MiriamRehema/project-1-Miriam'
+* Git clone the repository 'git clone git@github.com: MiriamRehema/project-1-Miriam'
 * Navigate to the project directory with the command `cd project-1-Miriam`
 
 * install json-server with the following command `npm install -g json-server`
