@@ -21,7 +21,7 @@ License
 
 Authors Info
 
-Conclusion
+
 
 Access to the Internet
 
