@@ -15,7 +15,7 @@ Technology Used
 
 Conclusion
 
-Licence
+License
 
 Authors Info
 
