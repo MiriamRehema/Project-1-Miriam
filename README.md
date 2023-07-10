@@ -3,7 +3,7 @@ Survey of MOTORBIKE REGISTRATION IN KENYA.
 
 This website allows  easy  registration of motorbikes owned by people in Kenya.
 
-It includes a database for the people who have registered their motorbikes.
+
 
 This can help the government or other organizations to follow the usage of motorbikes  in case any issue arises.
 
@@ -21,7 +21,9 @@ License
 
 Authors Info
 
+##Description
 
+It includes a database for the people who have registered their motorbikes.
 
 Access to the Internet
 
