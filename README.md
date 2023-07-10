@@ -21,8 +21,6 @@ License
 
 Authors Info
 
-Technology Used
-
 Conclusion
 
 Access to the Internet
